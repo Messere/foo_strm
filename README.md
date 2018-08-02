@@ -1,15 +1,17 @@
 # foo_strm
 
 [Kodi](https://kodi.tv/) supports simple, one item playlists, containing a single URL to stream. This tiny component adds
-support for `.strm` files.
+support for `.strm` files to [foobar2000](http://foobar2000.com/).
 
-`.strm` are basically text files with `.strm` extension with URL inside:
+## What are .strm files?
+
+`.strm` are basically text files with `.strm` extension containing single URL inside, e.g.:
 
 ```text
 http://radiojazzfm.radiokitstream.org/radiojazzfm.mp3
 ```
 
-If you save this line as "RadioJazzFm.strm" file, you cand open it in Kodi and play the stream. `Foo_strm` plugin allows doing the same in [foobar2000](http://foobar2000.com/), assuming that stream format is supported. 
+If you save this line as "RadioJazzFm.strm" file, you cand open it in Kodi and play the stream. `Foo_strm` plugin allows doing the same in foobar2000, assuming that stream format is supported. 
 
 See more details about `.strm` files [here](https://kodi.wiki/view/Internet_video_and_audio_streams#The_.STRM_file_method:).
 
