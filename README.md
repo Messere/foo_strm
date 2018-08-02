@@ -11,7 +11,7 @@ support for `.strm` files to [foobar2000](http://foobar2000.com/).
 http://radiojazzfm.radiokitstream.org/radiojazzfm.mp3
 ```
 
-If you save this line as "RadioJazzFm.strm" file, you cand open it in Kodi and play the stream. `Foo_strm` plugin allows doing the same in foobar2000, assuming that stream format is supported. 
+If you save this line as "RadioJazzFm.strm" file, you can open it in Kodi and play the stream. `Foo_strm` plugin allows doing the same in foobar2000, assuming that stream format is supported. 
 
 See more details about `.strm` files [here](https://kodi.wiki/view/Internet_video_and_audio_streams#The_.STRM_file_method:).
 
